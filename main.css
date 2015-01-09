@@ -173,3 +173,6 @@
 	color: white; 
 	border-radius:10px;
 }
+#main_section span{
+	font-weight: bold;
+}
