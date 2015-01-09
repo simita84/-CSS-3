@@ -1,22 +1,22 @@
 *{
+	line-height: 18px;
 	margin: 0;
 	padding: 0;
-	line-height: 18px;
 }
 #wrapper{
-	width: 980px;
-	margin: 0px auto;	
 	background-color: #F5FAFF;
+	margin: 0px auto;
+	width: 980px;
 }
 #top_section{
 	height: 148px;
 }
 #top_section ul{
-	list-style-type: none;
 	background-color: #B0B5B4;
-	width: 350px;
-	margin-left: 520px;
 	display: inline-block;
+	margin-left: 520px;	
+	list-style-type: none;
+	width: 350px;
 }
 #top_section ul li{
 	display: inline-block;
@@ -34,14 +34,14 @@
 	width: 100px;
 }
 #top_section img{
-	width: 70px;
 	height: 50px;
+	width: 70px;
 }
 #top_section h1{
-	margin-top:14px; 
-	font-size: 25px;
 	color: blue;
 	display: inline-block;
+	font-size: 25px;
+	margin-top:14px; 
 	vertical-align: top; 
 }
 #top_section h2{
@@ -52,42 +52,42 @@
     padding: 10px;
 	}
 #side_section{
-	width: 220px;
-	margin-top: 50px;
 	display: inline-block;
+	margin-top: 50px;
 	vertical-align: top;
+	width: 220px;
 	}
 #side_section h2{
- font-size: 20px;
- color: blue;
- margin-bottom: 5px;
+	 color: blue;
+	 font-size: 20px;
+	 margin-bottom: 5px;
 }
 #side_section h4{
- font: 14px;
- color: red;
- margin-bottom: 5px;
+	 font: 14px;
+	 color: red;
+	 margin-bottom: 5px;
 }
 #side_section p{
- font-size: 14px;
- color: black;
- margin-bottom:15px;
+	 color: black;
+	 font-size: 14px;
+	 margin-bottom:15px;
 }
 #demo{
-	width: 220px;
-	height:30px; 
-	color: white;
 	background-color: blue;
-	font-size: 15px;
+	color: white;
 	border-radius:3px;
+	font-size: 15px;
+	height:30px; 
 	margin: 2px;
+	width: 220px;
 }
 #trial{
+	background-color: orange;
+	border-radius:3px;
+	color: white;
 	width: 220px;
 	height:30px; 
-	color: white;
-	background-color: orange;
 	font-size: 15px;
-	border-radius:3px;
 	margin: 2px;
 }
 #side_section a{
@@ -95,27 +95,29 @@
 	text-decoration: none;
 }
 #side_section img{
-	width: 200px;
 	height: 300px;
 	margin-left:12px;  
+	width: 200px;
+	margin-top:2px; 
 }
 #credit_text{
 	text-align: center;
 	font-size: 12px;
+	border-bottom:1px solid grey; 
 }
 #main_section{
-	width: 700px;
 	display: inline-block;
-	vertical-align: top;
-	margin-top: 20px;
 	padding:10px;
+	margin-top: 20px;
+	width: 700px;
+	vertical-align: top;
 }
 #main_section h3{
- color: blue;
- font-size: 13px;
- display: inline-block;
- vertical-align: top;
- margin-top: 25px;
+	 color: blue;
+	 display: inline-block;
+	 font-size: 13px;
+	 margin-top: 25px;
+	 vertical-align: top;	
 }
 #phone_image{
 	margin-left: 350px;
@@ -126,18 +128,18 @@
 	width: 200px;
 }
 #contact_info h1{
-	font-size: 25px;
 	color: blue;
+	font-size: 25px;
 	padding:2px; 
 }
 #contact_info h4{
-	font-size: 15px;
 	color: grey;
+	font-size: 15px;
 	padding: 2px;
 }
 #main_section h2{
-	font-size: 20px;
 	color: blue;
+	font-size: 20px;
 	padding: 3px;
 }
 #main_section p{
@@ -147,8 +149,8 @@
 	padding-left: 18px;
 }
 #small_section{
-	width: 600px;
 	border: 5px solid blue;
+	width: 600px;
 	padding: 6px;
 	margin: 10px;
 }
